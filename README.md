@@ -1,27 +1,11 @@
-# Minimal Mistakes remote theme starter
+### Good day, eh! 👋
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+I'm a polyglot developer and RIT Computing and Information Technologies alum. My academic focus is data engineering, and music & technology.
 
-Contains basic configuration to get you a site with:
+### Let's talk! 📬
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Feel free to get in touch with me if you want to discuss my work or other interests. I'm also an audio production, backpacking, locksport, and daily driver Linux nerd!
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+💻 🔓 🎹 ⌨️ 🏕️ 🤿
 
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+The best way to contact me is via email at ethan@rusz.dev. You can also give my Matrix a shot at [@ruszdev:matrix.org](https://matrix.to/#/@ruszdev:matrix.org). I'm also on [Mastodon](https://mastodon.acm.org/@rusz)!
