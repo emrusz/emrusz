@@ -60,7 +60,7 @@ author:
   bio: "Data engineer, polyglot developer, and RIT Computing and Information Technologies alum."
   links:
     - label: "Docker Hub"
-      icon: "fas fa-fw fa-docker"
+      icon: "fab fa-fw fa-docker"
       url: "https://hub.docker.com/u/ethanrusz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
