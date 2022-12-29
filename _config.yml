@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ethan Ruszanowski
+title: ruszdev
 email: ethan@rusz.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Blog and portfolio for Ethan Ruszanowski.
@@ -59,6 +59,9 @@ author:
   avatar: "/assets/images/avatar.png"
   bio: "Data engineer, polyglot developer, and RIT Computing and Information Technologies alum."
   links:
+    - label: "Docker Hub"
+      icon: "fas fa-fw fa-docker"
+      url: "https://hub.docker.com/u/ethanrusz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ethan@rusz.dev"
@@ -78,6 +81,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ethanrusz"
 
+social:
+  type:
+  names:
+  links:
+    - "https://github.com/ethanrusz"
+    - "https://mastodon.acm.org/@rusz"
+
 defaults:
   # _posts
   - scope:
@@ -87,8 +97,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
