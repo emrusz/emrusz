@@ -8,4 +8,4 @@ Feel free to get in touch with me if you want to discuss my work or other intere
 
 💻 🔓 🎹 ⌨️ 🏕️ 🤿
 
-The best way to contact me is via email at ethan@rusz.dev. You can also give my Matrix a shot at [@ruszdev:matrix.org](https://matrix.to/#/@ruszdev:matrix.org). I'm also on [Mastodon](https://mastodon.acm.org/@rusz)!
+The best way to contact me is via email at ethan@rusz.dev. You can also give my Matrix a shot at [@ruszdev:matrix.org](https://matrix.to/#/@ruszdev:matrix.org). I'm also on [Mastodon](https://infosec.exchange/@rusz)!
