@@ -1,6 +1,6 @@
 ### Good day, eh! 👋
 
-I'm a polyglot developer, voulenteer FF/EMT, and RIT Computing and Information Technologies alum. My academic focus is data engineering, and music & technology.
+I'm a polyglot developer, volunteer FF/EMT, and RIT Computing and Information Technologies alum. My academic focus is data engineering, and music & technology.
 
 ### Let's talk! 📬
 
