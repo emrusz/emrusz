@@ -74,6 +74,9 @@ author:
     - label: "Matrix"
       icon: "fas fa-fw fa-paper-plane"
       url: "https://matrix.to/#/@ruszdev:matrix.org"
+    - label: "PGP"
+      icon: "fab fa-fw fa-lock"
+      url: "https://rusz.dev/pgp"
 
 footer:
   links:
