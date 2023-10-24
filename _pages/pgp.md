@@ -1,4 +1,3 @@
-
 ---
 permalink: /pgp/
 title: "PGP Public Key"
