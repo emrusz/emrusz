@@ -77,6 +77,9 @@ author:
     - label: "PGP Keys"
       icon: "fas fa-fw fa-lock"
       url: "https://rusz.dev/pgp"
+    - label: "XMPP"
+      icon: "fas fa-fw fa-paper-plane"
+      url: "xmpp://ruszdev@macaw.me"
 
 footer:
   links:
