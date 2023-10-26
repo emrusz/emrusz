@@ -3,7 +3,9 @@ permalink: /pgp/
 title: "PGP Public Keys"
 ---
 
-### [blueberry@rusz.dev](mailto:blueberry@rusz.dev) (ECC)
+Keys listed here can be verified against [keys.openpgp.org](https://keys.openpgp.org/).
+
+### [blueberry@rusz.dev](https://keys.openpgp.org/search?q=blueberry%40rusz.dev) (ECC)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -21,7 +23,7 @@ DBhzPLfMwUhYgvVI+EMQ9y4KqkgRRKBycQs=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-### [em@rusz.dev](mailto:em@rusz.dev) (RSA)
+### [em@rusz.dev](https://keys.openpgp.org/search?q=em%40rusz.dev) (RSA)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -78,7 +80,7 @@ dF4uoENdYsWp5ZhLMPqjV9Kke9t+XpxbRGwBetFE6nvWSmYivbLlh+fyMyK0Qai3
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-### [ethan@rusz.dev](mailto:ethan@rusz.dev) (RSA)
+### [ethan@rusz.dev](https://keys.openpgp.org/search?q=ethan%40rusz.dev) (RSA)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -134,7 +136,7 @@ jGLwELOnvg4MZfXb6zjxQb3XIy4hoLhWL0HNebWE+184SPgsEOov
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-### [sparrow@rusz.dev](mailto:sparrow@rusz.dev) (ECC)
+### [sparrow@rusz.dev](https://keys.openpgp.org/search?q=sparrow%40rusz.dev) (ECC)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
