@@ -14,4 +14,3 @@ Feel free to get in touch with me if you want to discuss my work or other intere
 💻 🔓 🎹 ⌨️ 🏕️ 🤿
 
 The best way to contact me is via email at [ethan@rusz.dev](mailto:ethan@rusz.dev). You can also reach me on Matrix [@ruszdev:matrix.org](https://matrix.to/#/@ruszdev:matrix.org) or via XMPP [ruszdev@macaw.me](xmpp://ruszdev@macaw.me). I'm also on [Mastodon](https://infosec.exchange/@rusz)!
-
