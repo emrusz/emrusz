@@ -59,9 +59,6 @@ author:
   avatar: "/assets/images/avatar.png"
   bio: "Data engineer, polyglot developer, and RIT Computing and Information Technologies alum."
   links:
-    - label: "Docker Hub"
-      icon: "fab fa-fw fa-docker"
-      url: "https://hub.docker.com/u/ethanrusz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ethan@rusz.dev"
@@ -77,9 +74,6 @@ author:
     - label: "Matrix"
       icon: "fas fa-fw fa-paper-plane"
       url: "https://matrix.to/#/@ruszdev:matrix.org"
-    - label: "PGP Keys"
-      icon: "fas fa-fw fa-lock"
-      url: "https://rusz.dev/pgp"
     - label: "XMPP"
       icon: "fas fa-fw fa-paper-plane"
       url: "xmpp://ruszdev@macaw.me"
@@ -92,6 +86,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ethanrusz"
+    - label: "OpenPGP"
+      icon: "fas fa-fw fa-lock"
+      url: "https://rusz.dev/pgp"
+
 
 after_footer_scripts:
   - assets/js/clipboard.js
