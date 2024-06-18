@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: rusz.dev
-email: ethan@rusz.dev
+email: em@rusz.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Blog and portfolio for Em (Ethan) Ruszanowski.
 github_username: ethanrusz
@@ -61,7 +61,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:ethan@rusz.dev"
+      url: "mailto:em@rusz.dev"
     - label: "Forgejo"
       icon: "fab fa-fw fa-git-alt"
       url: "https://git.beans.team/em"
