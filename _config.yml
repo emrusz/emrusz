@@ -65,7 +65,7 @@ author:
       url: "mailto:em@rusz.dev"
     - label: "Forgejo"
       icon: "fab fa-fw fa-git-alt"
-      url: "https://git.beans.team/em"
+      url: "https://git.rusz.dev/em"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ethanrusz"
@@ -83,7 +83,7 @@ footer:
   links:
     - label: "Forgejo"
       icon: "fab fa-fw fa-git-alt"
-      url: "https://git.beans.team/em"
+      url: "https://git.rusz.dev/em"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ethanrusz"
