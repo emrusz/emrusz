@@ -17,7 +17,7 @@ title: rusz.dev
 email: em@rusz.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Blog and portfolio for Em (Ethan) Ruszanowski.
-github_username: ethanrusz
+github_username: emrusz
 minimal_mistakes_skin: dark
 search: false
 
@@ -68,7 +68,7 @@ author:
       url: "https://git.rusz.dev/em"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ethanrusz"
+      url: "https://github.com/emrusz"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://infosec.exchange/@rusz"
@@ -86,7 +86,7 @@ footer:
       url: "https://git.rusz.dev/em"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ethanrusz"
+      url: "https://github.com/emrusz"
     - label: "OpenPGP"
       icon: "fas fa-fw fa-lock"
       url: "https://rusz.dev/pgp"
@@ -99,7 +99,7 @@ social:
   type:
   names:
   links:
-    - "https://github.com/ethanrusz"
+    - "https://github.com/emrusz"
     - "https://infosec.exchange/@rusz"
 
 defaults:
