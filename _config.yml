@@ -75,9 +75,6 @@ author:
     - label: "Matrix"
       icon: "fas fa-fw fa-paper-plane"
       url: "https://matrix.to/#/@ruszdev:matrix.org"
-    - label: "XMPP"
-      icon: "fas fa-fw fa-paper-plane"
-      url: "xmpp://ruszdev@macaw.me"
 
 footer:
   links:
