@@ -3,26 +3,6 @@ permalink: /pgp/
 title: "PGP Public Keys"
 ---
 
-Keys listed here can be verified against [keys.openpgp.org](https://keys.openpgp.org/).
-
-### [blueberry@rusz.dev](https://keys.openpgp.org/search?q=blueberry%40rusz.dev) (ECC)
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-xjMEZThDdRYJKwYBBAHaRw8BAQdA1xIDGRvB0zaiZZ10dC/J7vE2kySYtsxvXEvH
-vtO9DpzNJEJsdWViZXJyeSBGcm9zdCA8Ymx1ZWJlcnJ5QHJ1c3ouZGV2PsKJBBMW
-CAAxFiEEBuMQmzES/0WGomCx9BpFCkUzOxkFAmU4Q3UCGwMECwkIBwUVCAkKCwUW
-AgMBAAAKCRD0GkUKRTM7GQpAAQDBRd84SgTsZw4bdOnMiwpCpyQDIRCElaw2pPdM
-fCo+sgEAyHfViXWxKZD00R8y0wToGEtssNtoFlBuIZ7vm030yQLOOARlOEN1Egor
-BgEEAZdVAQUBAQdAaW6HgPIsCWLp+A/sDB4tDaCWdXz5AciVHc2146e0TFsDAQgH
-wngEGBYIACAWIQQG4xCbMRL/RYaiYLH0GkUKRTM7GQUCZThDdQIbDAAKCRD0GkUK
-RTM7GYnoAQD425Z9Iwpy4DI+hZvFgzCCWoPoz862EaLbSa0+x75iuAD/XZ+/U75J
-DBhzPLfMwUhYgvVI+EMQ9y4KqkgRRKBycQs=
-=A49H
------END PGP PUBLIC KEY BLOCK-----
-```
-
 ### [em@rusz.dev](https://keys.openpgp.org/search?q=em%40rusz.dev) (RSA)
 
 ```
@@ -133,6 +113,26 @@ Rm0IxioHFdlKFA2qXYyrh4Bgb/OIHmwIaALIcbImeYDW/5OWlSIvqmWvV6PsoZAv
 jEu2xo1in5EyJRQ+uP0i4AWPErPdmWrOYotSCmII02SOOhpQPJ9Ue7xoZzGRHMAQ
 jGLwELOnvg4MZfXb6zjxQb3XIy4hoLhWL0HNebWE+184SPgsEOov
 =21Wp
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+Keys listed here can be verified against [keys.openpgp.org](https://keys.openpgp.org/).
+
+### [blueberry@rusz.dev](https://keys.openpgp.org/search?q=blueberry%40rusz.dev) (ECC)
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEZThDdRYJKwYBBAHaRw8BAQdA1xIDGRvB0zaiZZ10dC/J7vE2kySYtsxvXEvH
+vtO9DpzNJEJsdWViZXJyeSBGcm9zdCA8Ymx1ZWJlcnJ5QHJ1c3ouZGV2PsKJBBMW
+CAAxFiEEBuMQmzES/0WGomCx9BpFCkUzOxkFAmU4Q3UCGwMECwkIBwUVCAkKCwUW
+AgMBAAAKCRD0GkUKRTM7GQpAAQDBRd84SgTsZw4bdOnMiwpCpyQDIRCElaw2pPdM
+fCo+sgEAyHfViXWxKZD00R8y0wToGEtssNtoFlBuIZ7vm030yQLOOARlOEN1Egor
+BgEEAZdVAQUBAQdAaW6HgPIsCWLp+A/sDB4tDaCWdXz5AciVHc2146e0TFsDAQgH
+wngEGBYIACAWIQQG4xCbMRL/RYaiYLH0GkUKRTM7GQUCZThDdQIbDAAKCRD0GkUK
+RTM7GYnoAQD425Z9Iwpy4DI+hZvFgzCCWoPoz862EaLbSa0+x75iuAD/XZ+/U75J
+DBhzPLfMwUhYgvVI+EMQ9y4KqkgRRKBycQs=
+=A49H
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
