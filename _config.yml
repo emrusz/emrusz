@@ -57,7 +57,7 @@ plugins:
 
 author:
   name: "Em (Ethan) Ruszanowski"
-  avatar: "/assets/images/avatar.png"
+  avatar: "/assets/images/avatar.jpg"
   bio: "Data engineer, polyglot developer, and RIT Computing and Information Technologies alum."
   links:
     - label: "Email"
