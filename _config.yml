@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog and portfolio for Em (Ethan) Ruszanowski.
 github_username: emrusz
 minimal_mistakes_skin: dark
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -59,6 +59,7 @@ author:
   name: "Em (Ethan) Ruszanowski"
   avatar: "/assets/images/avatar.jpg"
   bio: "Data engineer, polyglot developer, and RIT Computing and Information Technologies alum."
+  location: "Rochester, NY"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -91,9 +92,6 @@ footer:
       icon: "fas fa-fw fa-heartbeat"
       url: "https://status.rusz.dev"
 
-after_footer_scripts:
-  - assets/js/clipboard.js
-
 social:
   type:
   names:
@@ -120,6 +118,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+enable_copy_code_button: true
 
 category_archive:
   type: liquid
