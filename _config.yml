@@ -58,9 +58,12 @@ plugins:
 author:
   name: "Em (Ethan) Ruszanowski"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Data engineer, polyglot developer, and RIT Computing and Information Technologies alum."
+  bio: "Linux enthusiast, polyglot developer, Firefighter/EMT, and RIT Computing and Information Technologies alum."
   location: "Rochester, NY"
   links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/rusz.dev"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:em@rusz.dev"
@@ -70,9 +73,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emrusz"
-    - label: "Keyoxide"
-      icon: "fas fa-fw fa-key"
-      url: "https://keyoxide.org/hkp/8B8AD2762949006D00398C2DCD6631FC59E3F5A6"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://infosec.exchange/@rusz"
@@ -88,9 +88,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emrusz"
-    - label: "OpenPGP"
-      icon: "fas fa-fw fa-lock"
-      url: "https://rusz.dev/pgp"
+    - label: "Keyoxide"
+      icon: "fas fa-fw fa-key"
+      url: "https://keyoxide.org/hkp/8B8AD2762949006D00398C2DCD6631FC59E3F5A6"
     - label: "Status"
       icon: "fas fa-fw fa-heartbeat"
       url: "https://status.rusz.dev"
@@ -99,7 +99,9 @@ social:
   type:
   names:
   links:
+    - "https://git.rusz.dev/em"
     - "https://github.com/emrusz"
+    - "https://bsky.app/profile/rusz.dev"
     - "https://infosec.exchange/@rusz"
 
 defaults:
