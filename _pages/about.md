@@ -9,7 +9,7 @@ I'm a Linux enthusiast, polyglot developer, Firefighter/EMT, and RIT Computing a
 
 ### Let's talk! 📬
 
-Please to get in touch with me if you want to discuss my work or other interests. I'm also a live production, backpacking, and locksport, nerd!
+Please to get in touch with me if you want to discuss my work or other interests. I'm also a live production, backpacking, and locksport nerd!
 
 💻 🔓 🎹 ⌨️ 🏕️ 🤿
 
