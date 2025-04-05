@@ -1,0 +1,28 @@
+{
+  "subject": "acct:rusz@infosec.exchange",
+  "aliases": [
+    "https://infosec.exchange/@rusz",
+    "https://infosec.exchange/users/rusz"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://infosec.exchange/@rusz"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://infosec.exchange/users/rusz"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://infosec.exchange/authorize_interaction?uri={uri}"
+    },
+    {
+      "rel": "http://webfinger.net/rel/avatar",
+      "type": "image/png",
+      "href": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/598/080/592/274/975/original/f7bf111c274ca027.png"
+    }
+  ]
+}
