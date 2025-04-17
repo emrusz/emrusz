@@ -13,4 +13,4 @@ Please get in touch with me if you want to discuss my work or other interests. I
 
 💻 🔓 🎹 ⌨️ 🏕️ 🤿
 
-The best way to contact me is via email at [em@rusz.dev](mailto:em@rusz.dev) or by Matrix at [@em:rusz.dev](https://matrix.to/#/@em:rusz.dev). I'm also on [Bluesky](https://bsky.app/profile/rusz.dev) and [Mastodon](https://infosec.exchange/@rusz)!
+The best way to contact me is via email at [em@rusz.dev](mailto:em@rusz.dev) or by Matrix at [@em:rusz.dev](https://matrix.to/#/@em:rusz.dev). I'm also on [Mastodon](https://infosec.exchange/@rusz)!
