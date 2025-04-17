@@ -61,9 +61,6 @@ author:
   bio: "Linux enthusiast, polyglot developer, Firefighter/EMT, and RIT Computing and Information Technologies alum."
   location: "Rochester, NY"
   links:
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/rusz.dev"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:em@rusz.dev"
