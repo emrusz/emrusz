@@ -1,6 +1,6 @@
 ### Good day, eh! 👋
 
-I'm a Linux enthusiast, polyglot developer, Firefighter/EMT, and RIT Computing and Information Technologies alum. My academic focus is data engineering, and music & technology.
+I'm a Workplace Health & Safety expert, Linux enthusiast, polyglot developer, Firefighter/EMT, and RIT Computing and Information Technologies alum. My academic focus is data engineering, and music & technology.
 
 ### Let's talk! 📬
 
