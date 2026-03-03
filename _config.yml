@@ -16,7 +16,7 @@
 title: rusz.dev
 email: em@rusz.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog and portfolio for Em (Ethan) Ruszanowski.
+  Blog and portfolio for Ember Ruszanowski.
 github_username: emrusz
 minimal_mistakes_skin: dark
 search: true
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Em (Ethan) Ruszanowski"
+  name: "Ember Ruszanowski"
   avatar: "/assets/images/avatar.jpg"
   bio: "Linux enthusiast, polyglot developer, Firefighter/EMT, and RIT Computing and Information Technologies alum."
   location: "Rochester, NY"
