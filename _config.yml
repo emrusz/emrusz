@@ -64,9 +64,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:em@rusz.dev"
-    - label: "Forgejo"
-      icon: "fab fa-fw fa-git-alt"
-      url: "https://git.rusz.dev/em"
+    # - label: "Forgejo"
+    #   icon: "fab fa-fw fa-git-alt"
+    #   url: "https://git.rusz.dev/em"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emrusz"
@@ -79,9 +79,9 @@ author:
 
 footer:
   links:
-    - label: "Forgejo"
-      icon: "fab fa-fw fa-git-alt"
-      url: "https://git.rusz.dev/em"
+    # - label: "Forgejo"
+    #   icon: "fab fa-fw fa-git-alt"
+    #   url: "https://git.rusz.dev/em"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emrusz"
@@ -96,9 +96,9 @@ social:
   type:
   names:
   links:
-    - "https://git.rusz.dev/em"
+    # - "https://git.rusz.dev/em"
     - "https://github.com/emrusz"
-    - "https://bsky.app/profile/rusz.dev"
+    # - "https://bsky.app/profile/rusz.dev"
     - "https://infosec.exchange/@rusz"
 
 defaults:
